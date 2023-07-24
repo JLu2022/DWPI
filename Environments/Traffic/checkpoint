@@ -1,0 +1,2 @@
+model_checkpoint_path: "Inferrer_Model"
+all_model_checkpoint_paths: "Inferrer_Model"
